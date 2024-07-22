@@ -12,7 +12,7 @@ cd MTHS-code
 
 ## Python installation via Conda
 
-1. ****Install `cond**a`**
+1. **Setup `conda` environment**
 
 Make sure you have `conda` installed. The easiest way for homebrew users is:
 ```bash
