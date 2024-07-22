@@ -63,13 +63,6 @@ Pluto.run()
 In your web browser, navigate to the Pluto interface.
 Open the notebook files.
 
-
-# README
-
-## Practical Exercise: Correlated Fits to Monte Carlo Sampled Two-Point Correlators
-
-In this practical exercise, we perform correlated fits to Monte Carlo sampled two-point correlators, calculated from Wilson lines for a $L=32$ lattice with periodic boundary conditions.
-
 ### Notes and Tips
 
 - For Julia notes, visit [JuliaNotes.jl](https://m3g.github.io/JuliaNotes.jl/stable/).
