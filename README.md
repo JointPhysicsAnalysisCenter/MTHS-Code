@@ -22,7 +22,7 @@ For Linux, follow the instructions [here](https://docs.conda.io/projects/conda/e
 
 Create a new conda environment and install the required packages:
 ```bash
-conda create --name lattice-qcd python=3.xxx
+conda create --name lattice-qcd python
 conda activate lattice-qcd
 conda install numpy scipy matplotlib iminuit jupyterlab
 ```
