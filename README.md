@@ -5,7 +5,7 @@ Repository contains the code for exercise sessions of Modern Techniques in Hadro
 ### Clone the Code Repository 
 
 ```bash
-cd ~/Documents
+cd ~/Documents # or any other directory you want to clone the repository
 git clone https://github.com/JointPhysicsAnalysisCenter/MTHS-code MTHS-code
 cd MTHS-code
 ```
