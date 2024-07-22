@@ -7,7 +7,7 @@ Repository contains the code for exercise sessions of Modern Techniques in Hadro
 ```bash
 cd ~/Documents
 git clone https://github.com/JointPhysicsAnalysisCenter/MTHS-code MTHS-code
-cd MTHS-code/07-22-Lattice
+cd MTHS-code
 ```
 
 ## Python installation via Conda
