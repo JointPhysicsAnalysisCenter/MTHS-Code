@@ -44,12 +44,12 @@ tau          2.0
 [MD integrator]
 integrator   OMF4
 lambda       0.19
-nstep        8 
+nstep        8
 
 [MD trajectories]
 nth          0
 ntr          32000
-dtr_log      1 
+dtr_log      1
 dtr_cnfg     32
 dtr_ms       32
 
