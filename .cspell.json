@@ -1,0 +1,42 @@
+{
+  "dictionaries": ["julia", "python", "project"],
+  "dictionaryDefinitions": [
+    {
+      "addWords": true,
+      "name": "julia",
+      "path": "./.cspell/julia.txt"
+    },
+    {
+      "addWords": true,
+      "name": "python",
+      "path": "./.cspell/python.txt"
+    },
+    {
+      "addWords": true,
+      "name": "project",
+      "path": "./.cspell/project.txt"
+    }
+  ],
+  "enableFiletypes": ["julia", "python", "project"],
+  "ignorePaths": [
+    ".cspell.json",
+    ".cspell/*.txt",
+    "*/*.json",
+    ".editorconfig",
+    ".github/workflows",
+    ".gitignore",
+    ".pre-commit-config.yaml",
+    ".vscode/*.json",
+    "*/ym1.in",
+    "Manifest.toml",
+    "Project.toml"
+  ],
+  "language": "en-US",
+  "languageSettings": [
+    {
+      "dictionaries": ["julia", "python", "project"],
+      "languageId": ["julia", "text", "python"]
+    }
+  ],
+  "version": "0.2"
+}
